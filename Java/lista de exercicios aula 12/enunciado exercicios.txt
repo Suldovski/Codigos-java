@@ -1,0 +1,73 @@
+Exercício 1 – Animal e Tutor
+Enunciado:
+
+Crie uma classe Animal com os atributos:
+
+nome (String)
+especie (String)
+idade (int)
+Crie também uma classe Tutor com os atributos:
+
+nome (String)
+telefone (String)
+animal (do tipo Animal)
+No método principal, instancie um objeto Tutor, associe um objeto Animal a ele e exiba os dados do tutor e do seu animal.
+
+Exercício 2 – Livro e Autor
+Enunciado:
+
+Crie uma classe Autor com os atributos:
+
+nome (String)
+nacionalidade (String)
+Crie uma classe Livro com os atributos:
+
+titulo (String)
+editora (String)
+numeroPaginas (int)
+autor (do tipo Autor)
+No método principal, crie um objeto Livro associando um objeto Autor e exiba os dados do livro e do autor.
+
+ 
+Exercício 3 – Telefone e Operadora
+Enunciado:
+
+Crie uma classe Operadora com os atributos:
+
+nome (String)
+codigoArea (int)
+Crie uma classe Telefone com os atributos:
+
+numero (String)
+modelo (String)
+operadora (do tipo Operadora)
+No método principal, instancie um objeto Telefone com uma Operadora associada e exiba os dados do telefone e da operadora.
+
+Exercício 4 – Professor e Departamento
+Enunciado:
+
+Crie uma classe Departamento com os atributos:
+
+nome (String)
+localizacao (String)
+Crie uma classe Professor com os atributos:
+
+nome (String)
+especialidade (String)
+email (String)
+departamento (do tipo Departamento)
+No método principal, crie um objeto Professor associado a um Departamento e exiba os dados do professor e do departamento.
+
+Exercício 5 – ContaBancaria e Cliente
+Enunciado:
+
+Crie uma classe Cliente com os atributos:
+
+nome (String)
+cpf (String)
+Crie uma classe ContaBancaria com os atributos:
+
+numeroConta (String)
+saldo (double)
+cliente (do tipo Cliente)
+No método principal, instancie um objeto ContaBancaria associado a um Cliente e exiba os dados da conta e do cliente.
